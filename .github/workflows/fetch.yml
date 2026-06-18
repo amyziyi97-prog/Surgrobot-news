@@ -1,0 +1,40 @@
+name: 抓取资讯并更新
+
+on:
+  schedule:
+    # 每天北京时间 9:00 跑一次(GitHub 用 UTC,所以写 1:00)
+    - cron: "0 1 * * *"
+  workflow_dispatch:   # 允许在网页上手动点一下立即运行
+
+permissions:
+  contents: write      # 让 Action 能把更新提交回仓库
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取代码
+        uses: actions/checkout@v4
+
+      - name: 装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 装依赖
+        run: pip install -r scripts/requirements.txt
+
+      - name: 抓取
+        run: python scripts/fetch.py
+
+      - name: 提交更新(有变化才提交)
+        run: |
+          git config user.name  "news-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add news.db site/news.json
+          if git diff --staged --quiet; then
+            echo "没有新内容,跳过提交"
+          else
+            git commit -m "自动更新资讯 $(date +'%Y-%m-%d')"
+            git push
+          fi
