@@ -29,6 +29,11 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: 抓取
+        env:
+            SMTP_HOST: ${{ secrets.SMTP_HOST }}
+            SMTP_USER: ${{ secrets.SMTP_USER }}
+            SMTP_PASS: ${{ secrets.SMTP_PASS }}
+            MAIL_TO: ${{ secrets.MAIL_TO }}
         run: python scripts/fetch.py
 
       - name: 提交更新(有变化才提交)
