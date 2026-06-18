@@ -11,42 +11,39 @@
 # ════════════════════════════════════════════════════════════
 
 # 只保留命中这些关键词的资讯(命中任意一个即可)
+
+# 放宽了一些,让更多相关资讯能进来
 KEYWORDS = [
-    "手术机器人", "精锋", "腔镜机器人", "达芬奇", "微创机器人",
-    "单孔", "多孔", "内窥镜", "远程手术", "医保局", "立项指南",
-    "Intuitive", "Edge Medical", "康诺思腾", "术锐",
+    "手术机器人", "精锋", "腔镜", "达芬奇", "微创机器人",
+    "单孔", "多孔", "内窥镜", "内镜", "远程手术", "医保",
+    "立项指南", "支气管镜", "骨科机器人", "Intuitive",
+    "Edge Medical", "康诺思腾", "术锐", "微创医疗", "机器人手术",
 ]
 
-# ── RSS 源:填 名称 + RSS地址 + 默认分类 ──
-# 分类可选:company公司 / policy政策 / market市场 / tech技术 / global出海
+# ── RSS 源:谷歌新闻按关键词监控,等于帮你全网盯这些词 ──
+# 分类:company公司 / policy政策 / market市场 / tech技术 / global出海
 RSS_SOURCES = [
-    # 谷歌新闻按关键词生成的 RSS(最实用,等于帮你全网监控关键词)
-    {
-        "name": "谷歌新闻·手术机器人",
-        "url": "https://news.google.com/rss/search?q=%E6%89%8B%E6%9C%AF%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "cat": "market",
-    },
-    {
-        "name": "谷歌新闻·精锋医疗",
-        "url": "https://news.google.com/rss/search?q=%E7%B2%BE%E9%94%8B%E5%8C%BB%E7%96%97&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "cat": "company",
-    },
-    # 想加别的关键词,把上面 q= 后面那串换成你的词的 URL 编码即可。
-    # 偷懒办法:浏览器打开 news.google.com 搜你的词,点 RSS,复制地址。
+    {"name":"谷歌·手术机器人","cat":"market",
+     "url":"https://news.google.com/rss/search?q=%E6%89%8B%E6%9C%AF%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+    {"name":"谷歌·精锋医疗","cat":"company",
+     "url":"https://news.google.com/rss/search?q=%E7%B2%BE%E9%94%8B%E5%8C%BB%E7%96%97&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+    {"name":"谷歌·腔镜机器人","cat":"tech",
+     "url":"https://news.google.com/rss/search?q=%E8%85%94%E9%95%9C%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+    {"name":"谷歌·达芬奇手术","cat":"global",
+     "url":"https://news.google.com/rss/search?q=%E8%BE%BE%E8%8A%AC%E5%A5%87%E6%89%8B%E6%9C%AF&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+    {"name":"谷歌·微创机器人","cat":"company",
+     "url":"https://news.google.com/rss/search?q=%E5%BE%AE%E5%88%9B%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+    {"name":"谷歌·单孔机器人","cat":"tech",
+     "url":"https://news.google.com/rss/search?q=%E5%8D%95%E5%AD%94%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+    {"name":"谷歌·远程手术","cat":"policy",
+     "url":"https://news.google.com/rss/search?q=%E8%BF%9C%E7%A8%8B%E6%89%8B%E6%9C%AF&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+    {"name":"谷歌·支气管镜机器人","cat":"tech",
+     "url":"https://news.google.com/rss/search?q=%E6%94%AF%E6%B0%94%E7%AE%A1%E9%95%9C%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+    {"name":"谷歌·骨科机器人","cat":"market",
+     "url":"https://news.google.com/rss/search?q=%E9%AA%A8%E7%A7%91%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+    {"name":"谷歌·手术机器人+医保","cat":"policy",
+     "url":"https://news.google.com/rss/search?q=%E6%89%8B%E6%9C%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%20%E5%8C%BB%E4%BF%9D&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
 ]
 
-# ── HTML 源:没有 RSS 的网站,从列表页直接抓 ──
-# selector_item: 每条新闻的容器; selector_title/_link/_date: 容器内取标题/链接/日期
-HTML_SOURCES = [
-    # 示例(国家医保局政策动态页,结构可能变,以实际为准):
-    # {
-    #     "name": "国家医保局·医保动态",
-    #     "url": "https://www.nhsa.gov.cn/col/col14/index.html",
-    #     "cat": "policy",
-    #     "selector_item": "ul.list li",
-    #     "selector_title": "a",
-    #     "selector_link": "a",
-    #     "selector_date": "span.date",
-    #     "base_url": "https://www.nhsa.gov.cn",   # 相对链接补全用
-    # },
-]
+# ── HTML 源:没有 RSS 的网站,需填 CSS 选择器(暂时空着) ──
+HTML_SOURCES = []
