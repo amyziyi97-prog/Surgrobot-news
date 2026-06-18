@@ -21,7 +21,43 @@ CN_TZ = timezone(timedelta(hours=8))
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NewsBot/1.0)"}
 
+# ───────────── Email Sending ─────────────
+import os, smtplib, ssl
+from email.mime.text import MIMEText
+from email.header import Header
 
+SMTP_HOST = os.environ.get("SMTP_HOST", "")
+SMTP_USER = os.environ.get("SMTP_USER", "")
+SMTP_PASS = os.environ.get("SMTP_PASS", "")
+MAIL_TO   = os.environ.get("MAIL_TO", "")
+
+def push_email(new_items):
+    """有新资讯时,发邮件提醒"""
+    if not (SMTP_HOST and SMTP_USER and SMTP_PASS and MAIL_TO) or not new_items:
+        return
+    subject = f"手术机器人资讯 · 新增 {len(new_items)} 条"
+    # 拼 HTML 正文:每条一行,可点链接
+    rows = []
+    for it in new_items[:20]:
+        rows.append(
+            f'<p style="margin:6px 0"><b>[{it["date"]}]</b> '
+            f'<a href="{it["url"]}">{it["title"]}</a> '
+            f'<span style="color:#888">（{it["src"]}）</span></p>'
+        )
+    body = "<h3>本次新增资讯</h3>" + "".join(rows)
+    msg = MIMEText(body, "html", "utf-8")
+    msg["Subject"] = Header(subject, "utf-8")
+    msg["From"] = SMTP_USER
+    msg["To"] = MAIL_TO
+    try:
+        ctx = ssl.create_default_context()
+        with smtplib.SMTP_SSL(SMTP_HOST, 465, context=ctx, timeout=20) as s:
+            s.login(SMTP_USER, SMTP_PASS)
+            s.sendmail(SMTP_USER, [MAIL_TO], msg.as_string())
+        print(f"  → 已发邮件 ({len(new_items)} 条)")
+    except Exception as ex:
+        print(f"  ! 邮件推送失败: {ex}")
+        
 # ───────────── 数据库 ─────────────
 def init_db(conn):
     conn.execute("""
@@ -167,24 +203,26 @@ def main():
     week_ago = (datetime.now(CN_TZ) - timedelta(days=7)).isoformat()
     conn.execute("UPDATE news SET is_new=0 WHERE fetched_at < ?", (week_ago,))
 
-    total_new = 0
+    new_items = []
     for src in RSS_SOURCES:
         print(f"· RSS  {src['name']}")
         for item in fetch_rss(src):
             if upsert(conn, item):
-                total_new += 1
+                new_items.append(item)
         time.sleep(1)
 
     for src in HTML_SOURCES:
         print(f"· HTML {src['name']}")
         for item in fetch_html(src):
             if upsert(conn, item):
-                total_new += 1
+                new_items.append(item)
         time.sleep(1)
+    total_new = len(new_items)
 
     conn.commit()
     export_json(conn)
     conn.close()
+    push_email(new_items)    
     print(f"✓ 本次新增 {total_new} 条")
 
 
