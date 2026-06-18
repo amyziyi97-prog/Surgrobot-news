@@ -86,6 +86,31 @@ def init_db(conn):
 def hit_keywords(text):
     return any(k in text for k in KEYWORDS)
 
+def guess_category(title, default_cat):
+    """按标题内容判断分类;判断不出来才用源自带的 default_cat。
+    优先级:出海 > 政策 > 公司 > 技术。"""
+    t = title
+    global_kw = ["CE认证","CE标志","获CE","FDA","欧盟","出口","海外",
+                 "国际化","走出去","进入美国","欧洲","巴西","卢旺达",
+                 "沙特","意大利","东南亚","一带一路","NHS","逆向输出",
+                 "海外订单","海外市场","海外获批"]
+    domestic = ["国内首例","省人民医院","市人民医院","中国首例",
+                "完成手术","成功实施","临床手术"]
+    if any(k in t for k in global_kw) and not any(k in t for k in domestic):
+        return "global"
+    policy_kw = ["医保","立项指南","集采","国家药监","NMPA","获批上市",
+                 "纳入","政策","监管","收费标准","审批","注册证","挂网"]
+    if any(k in t for k in policy_kw):
+        return "policy"
+    company_kw = ["融资","IPO","上市","递交","招股","营收","财报","亿元",
+                  "万元","轮融资","订单","中标","战略合作","签约","估值",
+                  "股份","冲刺","递表"]
+    if any(k in t for k in company_kw):
+        return "company"
+    tech_kw = ["专利","研发","技术突破","新一代","力反馈","导航","单孔","柔性","算法"]
+    if any(k in t for k in tech_kw):
+        return "tech"
+    return default_cat
 
 def clean(text):
     text = html.unescape(text or "")
@@ -134,7 +159,7 @@ def fetch_rss(src):
             continue
         out.append({
             "date": to_date(e.get("published_parsed")),
-            "cat": src["cat"],
+            "cat": guess_category(title, src["cat"]),
             "title": title,
             "body": body or "(点链接查看原文)",
             "src": src["name"],
@@ -173,7 +198,7 @@ def fetch_html(src):
         if not hit_keywords(title):
             continue
         out.append({
-            "date": date, "cat": src["cat"], "title": title,
+            "date": date, "cat": guess_category(title, src["cat"]), "title": title,
             "body": "(点链接查看原文)", "src": src["name"], "url": link,
         })
     return out
