@@ -40,9 +40,7 @@ RSS_SOURCES = [
     {"name":"谷歌·支气管镜机器人","cat":"tech",
      "url":"https://news.google.com/rss/search?q=%E6%94%AF%E6%B0%94%E7%AE%A1%E9%95%9C%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
     {"name":"谷歌·手术机器人+医保","cat":"policy",
-     "url":"https://news.google.com/rss/search?q=%E6%89%8B%E6%9C%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%20%E5%8C%BB%E4%BF%9D&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
-    {"name":"谷歌·天智航","cat":"company",
-     "url":"https://news.google.com/rss/search?q=%E5%A4%A9%E6%99%BA%E8%88%AA%20%E6%89%8B%E6%9C%AF%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"}
+     "url":"https://news.google.com/rss/search?q=%E6%89%8B%E6%9C%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%20%E5%8C%BB%E4%BF%9D&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"}
 ]
 
 # ── HTML 源:没有 RSS 的网站,需填 CSS 选择器(暂时空着) ──
