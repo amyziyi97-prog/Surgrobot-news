@@ -29,7 +29,7 @@ RSS_SOURCES = [
      "url":"https://news.google.com/rss/search?q=%E7%B2%BE%E9%94%8B%E5%8C%BB%E7%96%97&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
     {"name":"谷歌·腔镜机器人","cat":"tech",
      "url":"https://news.google.com/rss/search?q=%E8%85%94%E9%95%9C%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
-    {"name":"谷歌·达芬奇手术","cat":"global",
+    {"name":"谷歌·达芬奇手术","cat":"market",
      "url":"https://news.google.com/rss/search?q=%E8%BE%BE%E8%8A%AC%E5%A5%87%E6%89%8B%E6%9C%AF&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
     {"name":"谷歌·微创机器人","cat":"company",
      "url":"https://news.google.com/rss/search?q=%E5%BE%AE%E5%88%9B%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
