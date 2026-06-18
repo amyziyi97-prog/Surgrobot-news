@@ -17,7 +17,7 @@ KEYWORDS = [
     "手术机器人", "精锋", "腔镜", "达芬奇", "微创机器人",
     "单孔", "多孔", "内窥镜", "内镜", "远程手术", "医保",
     "立项指南", "支气管镜", "骨科机器人", "Intuitive",
-    "Edge Medical", "康诺思腾", "术锐", "微创医疗", "机器人手术",
+    "Edge Medical", "康诺思腾", "术锐", "微创医疗", "机器人手术"
 ]
 
 # ── RSS 源:谷歌新闻按关键词监控,等于帮你全网盯这些词 ──
@@ -39,8 +39,6 @@ RSS_SOURCES = [
      "url":"https://news.google.com/rss/search?q=%E8%BF%9C%E7%A8%8B%E6%89%8B%E6%9C%AF&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
     {"name":"谷歌·支气管镜机器人","cat":"tech",
      "url":"https://news.google.com/rss/search?q=%E6%94%AF%E6%B0%94%E7%AE%A1%E9%95%9C%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
-    {"name":"谷歌·骨科机器人","cat":"market",
-     "url":"https://news.google.com/rss/search?q=%E9%AA%A8%E7%A7%91%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
     {"name":"谷歌·手术机器人+医保","cat":"policy",
      "url":"https://news.google.com/rss/search?q=%E6%89%8B%E6%9C%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%20%E5%8C%BB%E4%BF%9D&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
 ]
