@@ -16,7 +16,7 @@ from sources import KEYWORDS, RSS_SOURCES, HTML_SOURCES
 
 ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "news.db"
-JSON_OUT = ROOT / "site" / "news.json"
+JSON_OUT = ROOT / "news.json"
 CN_TZ = timezone(timedelta(hours=8))
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NewsBot/1.0)"}
