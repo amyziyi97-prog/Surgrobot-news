@@ -141,7 +141,7 @@ def guess_category(title, default_cat):
         return "tech"
 
     # 兜底:含"精锋"的统一归公司,否则用源默认分类
-    if "精锋" in t:
+    if any(k in t for k in ["精锋","MP1000","SP1000"]):
         return "company"
     return default_cat
 
