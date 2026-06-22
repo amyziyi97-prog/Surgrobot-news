@@ -7,6 +7,9 @@ import sqlite3, json, hashlib, html, re, sys, time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+import re
+from difflib import SequenceMatcher
+
 import feedparser
 import requests
 from bs4 import BeautifulSoup
@@ -220,14 +223,33 @@ def fetch_html(src):
             "body": "(点链接查看原文)", "src": src["name"], "url": link,
         })
     return out
+# ───────────── 去重 ─────────────
+def _normalize_title(title):
+    """去掉媒体后缀、股票代码、标点,提取核心内容用于相似度比对"""
+    t = re.sub(r"\s*[-–—]\s*[^-–—]+$", "", title)   # 去末尾 "- 媒体名"
+    t = re.sub(r"\(?\d{5,6}\.?(HK|SH|SZ)?\)?", "", t)  # 去股票代码
+    t = re.sub(r"-?[ABH]股?", "", t)                  # 去 -B/-A/H股
+    t = re.sub(r"[（）()，,。！!？?：:\u201c\u201d\u2018\u2019\"'\s、]", "", t)
+    return t
 
-
+def dedup_by_content(rows, threshold=0.62):
+    """按标题内容相似度去重(同一事件多家媒体只留一条)。
+    rows 是 (date,cat,title,body,src,url,is_new) 元组列表。"""
+    kept, kept_norm = [], []
+    for r in rows:
+        norm = _normalize_title(r[2])   # r[2] 是 title
+        if any(SequenceMatcher(None, norm, kn).ratio() >= threshold for kn in kept_norm):
+            continue
+        kept.append(r)
+        kept_norm.append(norm)
+    return kept
 # ───────────── 导出给网页 ─────────────
 def export_json(conn):
     rows = conn.execute(
         "SELECT date,cat,title,body,src,url,is_new FROM news "
         "ORDER BY date DESC, fetched_at DESC LIMIT 200"
     ).fetchall()
+    rows = dedup_by_content(rows)   # ← 新增:导出前按内容去重
     data = [{
         "date": r[0], "cat": r[1], "title": r[2], "body": r[3],
         "src": r[4], "url": r[5], "isNew": bool(r[6]),
