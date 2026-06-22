@@ -271,8 +271,8 @@ def main():
     init_db(conn)
 
     # 每次抓取前,把超过7天的 is_new 清掉(去掉 NEW 角标)
-    week_ago = (datetime.now(CN_TZ) - timedelta(days=7)).isoformat()
-    conn.execute("UPDATE news SET is_new=0 WHERE fetched_at < ?", (week_ago,))
+    # week_ago = (datetime.now(CN_TZ) - timedelta(days=7)).isoformat()
+   # conn.execute("UPDATE news SET is_new=0 WHERE fetched_at < ?", (week_ago,))
 
     new_items = []
     for src in RSS_SOURCES:
