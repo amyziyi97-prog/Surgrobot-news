@@ -31,6 +31,24 @@ SMTP_USER = os.environ.get("SMTP_USER", "")
 SMTP_PASS = os.environ.get("SMTP_PASS", "")
 MAIL_TO   = os.environ.get("MAIL_TO", "")
 
+def filter_for_push(items, days=1):
+    """推送前处理:① 按链接去重 ② 只保留最近 days 天内发布的。
+    注意:只影响推送,数据库和网页仍保存全部抓到的内容。"""
+    today = datetime.now(CN_TZ).date()
+    seen, out = set(), []
+    for it in items:
+        if it["url"] in seen:
+            continue
+        seen.add(it["url"])
+        try:
+            d = datetime.strptime(it["date"], "%Y.%m.%d").date()
+            if (today - d).days >= days:   # 超过 days 天的旧闻不推
+                continue
+        except Exception:
+            pass   # 日期格式异常的,保守保留
+        out.append(it)
+    return out
+
 def push_email(new_items):
     """有新资讯时,发邮件提醒"""
     if not (SMTP_HOST and SMTP_USER and SMTP_PASS and MAIL_TO) or not new_items:
