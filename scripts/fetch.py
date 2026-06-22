@@ -52,6 +52,9 @@ def filter_for_push(items, days=1):
         out.append(it)
     return out
 
+CAT_CN = {"company":"公司","policy":"政策","market":"市场",
+          "tech":"技术","global":"海外","auto":"自动抓取"}
+    
 def push_email(new_items):
     """有新资讯时,发邮件提醒"""
     if not (SMTP_HOST and SMTP_USER and SMTP_PASS and MAIL_TO) or not new_items:
@@ -60,8 +63,11 @@ def push_email(new_items):
     # 拼 HTML 正文:每条一行,可点链接
     rows = []
     for it in new_items[:20]:
+        cat_label = CAT_CN.get(it.get("cat", ""), it.get("cat", ""))
         rows.append(
             f'<p style="margin:6px 0"><b>[{it["date"]}]</b> '
+            f'<span style="background:#eef;color:#447;padding:1px 6px;'
+            f'border-radius:4px;font-size:12px">{cat_label}</span> '
             f'<a href="{it["url"]}">{it["title"]}</a> '
             f'<span style="color:#888">（{it["src"]}）</span></p>'
         )
