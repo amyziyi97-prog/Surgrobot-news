@@ -265,7 +265,8 @@ def main():
     conn.commit()
     export_json(conn)
     conn.close()
-    push_email(new_items)    
+    push_items = filter_for_push(new_items, days=1)
+    push_email(push_items)    
     print(f"✓ 本次新增 {total_new} 条")
 
 
