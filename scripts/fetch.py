@@ -256,9 +256,21 @@ def export_json(conn):
         "ORDER BY date DESC, fetched_at DESC LIMIT 200"
     ).fetchall()
     rows = dedup_by_content(rows)   # ← 新增:导出前按内容去重
+    
+    today = datetime.now(CN_TZ).date()
+    def _is_new(date_str, days=3):
+        parts = date_str.split(".")
+        if len(parts) < 3:
+            return False          # 只到月份的旧闻不算新
+        try:
+            d = datetime(int(parts[0]), int(parts[1]), int(parts[2])).date()
+            return 0 <= (today - d).days <= days
+        except Exception:
+            return False
+
     data = [{
         "date": r[0], "cat": r[1], "title": r[2], "body": r[3],
-        "src": r[4], "url": r[5], "isNew": bool(r[6]),
+        "src": r[4], "url": r[5], "isNew": _is_new(r[0]),
         "major": False,
     } for r in rows]
     JSON_OUT.parent.mkdir(parents=True, exist_ok=True)
