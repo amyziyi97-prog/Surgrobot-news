@@ -1,11 +1,21 @@
 [
   {
-    "date": "2026.07.08",
-    "cat": "market",
-    "title": "异动直击 | 微创机器人涨超2%，预计年度收入同比增长约145%至155%，运营费用大幅下降 - 富途牛牛",
-    "body": "异动直击 | 微创机器人涨超2%，预计年度收入同比增长约145%至155%，运营费用大幅下降 富途牛牛",
-    "src": "谷歌·微创机器人",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdU9ITWQ0blFUY3JsVWNSSkRjM1FpbjdWZnlEQ250aFk3MmNxZHVHU0VwXzhDQVJxWDhGZnBZZlcwdVYxUjY3SF9hdTRzTENKYVlPWDVRckNxaTlMUHo1ZUIyMVhRU3JMRVI4YURXdmQyZjlGZzZDbHF6R3ZtazJMeGZ5U3ByZ3ZVNUp4Y1A4YVhENjdEdmNKWGVMVnJjdkhNRzlxQVZqOE1XX1BT?oc=5",
+    "date": "2026.07.09",
+    "cat": "company",
+    "title": "精锋手术机器人中标后遭“递补”，价格上涨1054万",
+    "body": "(点链接查看原文)",
+    "src": "OFweek·医疗机器人",
+    "url": "https://www.ofweek.com/medical/2026-07/ART-8120-1111-30693795.html",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.07.09",
+    "cat": "tech",
+    "title": "迈瑞手术机器人新专利曝光：解决视野盲区，老年微创手术更安全 - AgeClub",
+    "body": "迈瑞手术机器人新专利曝光：解决视野盲区，老年微创手术更安全 AgeClub",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVYWZuUlZHOE1LeVg5Wjl6YU1iY21faUc1WERjUnhhUVFkeFFZSVhtZlVPV3ljNzdSRGV2TlVHZEZVQmQxSGNuOVVEVFJSWjlacVVZQmF3?oc=5",
     "isNew": true,
     "major": false
   },
@@ -15,7 +25,57 @@
     "title": "微创机器人-B午后涨超14% 图迈机器人完成全球范围第200台商业化装机 - 新浪财经",
     "body": "微创机器人-B午后涨超14% 图迈机器人完成全球范围第200台商业化装机 新浪财经",
     "src": "谷歌·微创机器人",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0hjbnFCMTNzU1diYzROcWVOLXdmUlk1ZkQ0cmc5d1AtS3BYdkFPUG1yaUFEcTlaY3lSMF94SGgzOG9wR0J4bkN0Q05TQ0liMk5ReWZnUnBsWF80LWNNLWZ3WFA3dFdVX0ZHTmpnQ1RXVDRmc1pqWTRHRy10MXEtQXd3SDcteUtMTU1XUEl1RzVZQ19XcHNxR0xwZURVSHNS?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUxfdmVRcm9sWE1mREVYaWtZU0RHS2pKZ3c3VTFpMl9ZanNXaTFmODluYkx1NUU0cU5FN1NHMVNYLW42c1BvUm1XUVl1a2djSmZsTU1zVGx6bVFhUng0V2lkTjNvOVFtcF9lWXRnWjZJVHB3ZnRhWUZPREwzV0JTTVZkSmNVUGo0a2VCS29HeFp2cGFMeEszNUlNQU9LSW5KOWhKT3JINEI1UQ?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.07.08",
+    "cat": "market",
+    "title": "让“中国智造”温暖生命——思哲睿攻克核心技术打造“手术超人” - 新华网",
+    "body": "让“中国智造”温暖生命——思哲睿攻克核心技术打造“手术超人” 新华网",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNmo0SmJvNHRTUUFCS19RR00yLXIwZzhKR1ZOUGNyUzRQWERQaXFnaGFXRkdhWHVyd0lNYy1qNUF3UW5Ccnl5SEhpZ1ktcVpRbnBSNVVzU29Jc3lDSzFEWlFsM3N1c0lMSm5ZZVhJQ25qSmdSTTRlODg5cktaR29kUmhuZw?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.07.08",
+    "cat": "market",
+    "title": "深圳女子体检“揪出”早癌，机器人手术实现颈部无痕 - 搜狐网",
+    "body": "深圳女子体检“揪出”早癌，机器人手术实现颈部无痕 搜狐网",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40Q0xmUy12LVROWlBVWEpldVF3RHBHNk1KcFd2N29LQ1pCMEhrcUozalg1ZUJ0R3gxMWpmdFN1X1BTLWhpd0t0bWNDbzFNY25hY0E?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.07.08",
+    "cat": "market",
+    "title": "活力中国调研行｜微创机器人副总裁：上海是手术机器人最好的展示窗口 - thepaper.cn",
+    "body": "活力中国调研行｜微创机器人副总裁：上海是手术机器人最好的展示窗口 thepaper.cn",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCNVRFOTRqRkUxbXdQd1h3eFUwMDYtY3k2YXZOUXREYU1zOHVPNC1DdVNtak9KTk11LUFfYk5EUU0tNkN0NEpyYnU0UDg2ckVXZ0hsTXhjSjlxdDduelZYWg?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.07.08",
+    "cat": "market",
+    "title": "对标“达芬奇”手术机器人：术锐股份研发逆势收缩 - 新浪财经",
+    "body": "对标“达芬奇”手术机器人：术锐股份研发逆势收缩 新浪财经",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RcWNZLUZPd1N3S1RXWDBqRHZFUWNBSHowMmVERkk2WFA5eHAxWjg2OFNubHd4ZjhCRnJTV1lzUk9qc1lGXzlBQi1BS2U1aVdxaTZCS0F1Ym45S1JDZ3lWU3lSTmV4RS1yUHZNYmRfaw?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.07.08",
+    "cat": "market",
+    "title": "异动直击 | 微创机器人涨超2%，预计年度收入同比增长约145%至155%，运营费用大幅下降 - 富途牛牛",
+    "body": "异动直击 | 微创机器人涨超2%，预计年度收入同比增长约145%至155%，运营费用大幅下降 富途牛牛",
+    "src": "谷歌·微创机器人",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdU9ITWQ0blFUY3JsVWNSSkRjM1FpbjdWZnlEQ250aFk3MmNxZHVHU0VwXzhDQVJxWDhGZnBZZlcwdVYxUjY3SF9hdTRzTENKYVlPWDVRckNxaTlMUHo1ZUIyMVhRU3JMRVI4YURXdmQyZjlGZzZDbHF6R3ZtazJMeGZ5U3ByZ3ZVNUp4Y1A4YVhENjdEdmNKWGVMVnJjdkhNRzlxQVZqOE1XX1BT?oc=5",
     "isNew": true,
     "major": false
   },
@@ -36,6 +96,16 @@
     "body": "深圳高端医疗装备出海，锟铻骨科手术机器人马来西亚首台手术成功实施 中华网",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByYXYzV3pSX1puekdvTklOLVpLdEg3ZlhzMUhBdlAtTVFNYXBlTUxrZ3RzQmMzRm81WldLdno0Q3BabzVyZVhkTkdwSVljenBVYmlTTW9kOWZSNWNQY2c?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.07.07",
+    "cat": "market",
+    "title": "手术机器人市场规模到2030年增长105 Bn - Spherical Insights",
+    "body": "手术机器人市场规模到2030年增长105 Bn Spherical Insights",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YdlJzXy1YRWlBUjJFSElCZjdscVdzMGdPWEtTVnZjbkpPcHYxenN3VEkwNW9oLThod3FOOE1Gek1FQUdiUkpmbFdLLWwyUHFLMTJZbG02dERXUDhBZjgzYUFEUmJOVGZfSkRKYjVnZ1lBYVVVM0l5dGlkTjBqdw?oc=5",
     "isNew": true,
     "major": false
   },
@@ -76,6 +146,16 @@
     "body": "成本降三分之二、落地千家医院！中国手术机器人圈粉海内外 四川在线",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QY1dIcmpUVS15Y0VCUExuUnYySTdkV0RBSTlrazFWOXBNY1FSRDdjSHQyTjZfUWwzZnFGZ0NPM29UY2lFVnFFbTlvUVRvWEw2Y1FabEFZRGtMbm9CS0xJMw?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.07.06",
+    "cat": "global",
+    "title": "北京，跑出一家手术机器人IPO，已拿下欧盟认证 - QQ News",
+    "body": "北京，跑出一家手术机器人IPO，已拿下欧盟认证 QQ News",
+    "src": "谷歌·单孔机器人",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04TXJyb3VGWHFCLUQyaWdXWnhnQWl5eF8tWXFlTThidDhPb3pWelpnVDFxLXNhRjdIWkpENmZWTDYtS2dnTHcycHhPeG5RNlZfakVSWmF3?oc=5",
     "isNew": true,
     "major": false
   },
@@ -141,6 +221,26 @@
   },
   {
     "date": "2026.07.03",
+    "cat": "company",
+    "title": "星展：精锋医疗首予“买入”评级 目标价68.10港元 - 新浪财经",
+    "body": "星展：精锋医疗首予“买入”评级 目标价68.10港元 新浪财经",
+    "src": "谷歌·精锋医疗",
+    "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOVXR3UW1iVTk2UVNwZWRwN09sclNsMTY0OV9MTW1RSGZoZk5qUUZHNFhiWWNoSlE1TXdfdm9qZFB1YksxdkZVMTIyVnV2NF9SUmxEQVlGZEpQNDU5cnh6ZVFqOHNWMldfQkpXcnhmc2VHbGczYmtBak1wQTZMWE5KVEp5TDlQNG5FRUlwaVJOSzFpbzJyWU9FbkFya28yVFd2azNoSnZWbEdTY0RZR3FPbkluTlNhWGpiZTVtbzdxNl92VzU3a21zaWtjdVkyZVdVUllFLWRGenpSUFl0bnByQnBiNmtWMHZkWUtILUw3alRrbjY1NnN4S2pYbjZLOUlCRVQxNzEtR25MWDBLTHpkWDVwV3VGRk1xVjFOY09MSzMzdDF2R1NNbzA1a09VcmgxMi02TnZRSzd6UVU3NjhyY0g2Z3lmRE9mblUtUlVhRHJCUW5oTzRNdW44T0pkRjg3RDNrcmFzMFk0MERONi1FVndTZ1BfLTRaOVQ4clBXc2NIZUxlMEVtVHE2dlZnVm56a081aG9ZY3VQOHZuRFpnWnBIYnJTeVBVT3h0OFkzTnVuWkJFRWh3eGNEaWM0SWpHRHc5Vl9OODU0bzMtZU1YbWlWeGV4NTl3eDYySklNeVdZc2VYY1BlZi00RzlFUzRnMll5TXhWVEhFNnotN0x6ZGxHeVBvRXAta3ZQMjg3TzZhNnVpRlYzanFIN2tHU3BIejlRdUlhQQ?oc=5",
+    "isNew": false,
+    "major": false
+  },
+  {
+    "date": "2026.07.03",
+    "cat": "company",
+    "title": "【IPO追踪】大涨超16%！精锋医疗（02675.HK）反弹背后面临“两重关” - QQ News",
+    "body": "【IPO追踪】大涨超16%！精锋医疗（02675.HK）反弹背后面临“两重关” QQ News",
+    "src": "谷歌·精锋医疗",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FVFM0NTdLVE1vQWpFM0hlRTFKbF9YTUhxUUdmZS1WUnFlZEVvekhTMVo3d1RTYl84OE9HQ3NtVGtVX2JGcGx4cFZjblk2T2FrSU5WcXVn?oc=5",
+    "isNew": false,
+    "major": false
+  },
+  {
+    "date": "2026.07.03",
     "cat": "market",
     "title": "港股异动 | 微创机器人-B盘中涨超12% - 新浪财经",
     "body": "港股异动 | 微创机器人-B盘中涨超12% 新浪财经",
@@ -186,16 +286,6 @@
     "body": "聚焦医疗远程手术与教学培训，贝锐向日葵医疗行业实战案例一览 凤凰网",
     "src": "谷歌·远程手术",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90VVE1UFJ1cDdwU0hFZlV5akhDY0hEOEhGZFdiVE5ibjNuRl9XN1ZvWmVRQTIyQzhuVW9Nc2FpWnU3cmJNWGl4eA?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.07.03",
-    "cat": "company",
-    "title": "【IPO追踪】大涨超16%！精锋医疗（02675.HK）反弹背后面临“两重关” - 资鲸",
-    "body": "【IPO追踪】大涨超16%！精锋医疗（02675.HK）反弹背后面临“两重关” 资鲸",
-    "src": "谷歌·精锋医疗",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczU2TG1oNXR3ZlJkZS1xY0NMWVJEZGN4YzlLSmx1RUFTSndnM3Nua2sxa2VRSmZ5VE9OcXI1UGZzR2ZXdjEycEtrMmZXdlIwNnJrRWh2aERtWF8tcEFTcjlOMmFSRDlyV085QzFjT0gwNDFNNC1DZjZERXI3dkNrVkRMVGxxeFRtbUw0cTNuaFVXQQ?oc=5",
     "isNew": false,
     "major": false
   },
@@ -351,16 +441,6 @@
   },
   {
     "date": "2026.07.02",
-    "cat": "company",
-    "title": "星展：精锋医疗首予“买入”评级 目标价68.10港元 - 新浪财经",
-    "body": "星展：精锋医疗首予“买入”评级 目标价68.10港元 新浪财经",
-    "src": "谷歌·精锋医疗",
-    "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQZTdldjZqRVFpeThKRlVMTUlwbDQ4NzB5YUNMZFFWMHZQLWVPMDY2QldvdGc2Q0Nad3loQUVuTW52TFhHMVg2VWpjWFl4bEx1dF9OX0QyejM3aE5jRmtyZzBXb25VdnlBODhlRE1NSVBLOVZsVzNwQ0RIVTZBcW44WWIxMTFoZEphTkt1cXI0N0F1eThOdnpEanRlRUl4V1A5OHllNjllcE9rTkRxOHpGbkNRUDVIMks3OHJibTJUbnNIdE5MZk9BaEQ5Y3F0a1pXWjIySE5MQ1ZpZHNOUmY2NHA5Nmhab2NmSThmdEdFaVFYVGY2M3JfRlM5NnU1dDJfV2xfWUY2TmxVRWpWQnI5bGdOMHdfMHh0WjZUTlhoS3ZUdE1qSDRYUFVyVkpZNDJ4TTlpTQ?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.07.02",
     "cat": "market",
     "title": "近亿融资！天津国资押注心血管AI，同步布局手术机器人",
     "body": "(点链接查看原文)",
@@ -406,16 +486,6 @@
     "body": "69岁老人查出乙状结肠癌，单孔微创术后一周顺利出院 凤凰网",
     "src": "谷歌·单孔机器人",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vRVM0TFhrZGtFRllVMlhJRFQtY2hqUC1haENQZjBRaWdfbzBFYTdYX1RUbXhibHVjb0FzN0V3aFlXcXBFbjQtbW5Pcms?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.07.01",
-    "cat": "global",
-    "title": "北京，跑出一家手术机器人IPO，已拿下欧盟认证 - 智东西",
-    "body": "北京，跑出一家手术机器人IPO，已拿下欧盟认证 智东西",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95cS10am9WdmcwYW1tUjJCZlotTk1VTlJhd2xTUGQyak5PV0hwVE5rbnB5cjg1Z3IzZE1DQkRWdE44UkJpcUE?oc=5",
     "isNew": false,
     "major": false
   },
@@ -476,6 +546,16 @@
     "body": "手术机器人企业赴港上市热度高，概念火但是难变现？ 广州日报新花城",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjhsMTBpMFEtenQ3dlVjT0R1RGFTbkswY1JvOVl5RmU4Q0wyUTJzb2ROaVFER1VMSXIzbnB5ang4ZERaZ1Atcl92dy1ISXkySEJSaG5ENE93UFdDb203d2lHODVNMDhIR1dKVkpKbE1rZkxWQmxxanExeVlNRmRPTmNQVGtzODNOR3c?oc=5",
+    "isNew": false,
+    "major": false
+  },
+  {
+    "date": "2026.06.30",
+    "cat": "tech",
+    "title": "术锐机器人二闯科创板：“单孔”硬杠达芬奇 规模效应有待释放 - 搜狐网",
+    "body": "术锐机器人二闯科创板：“单孔”硬杠达芬奇 规模效应有待释放 搜狐网",
+    "src": "谷歌·腔镜机器人",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wVUZhNFZxQ3VubUUtdnhwaTdWaFhMS1BMVGRtWUlfeEF6a1hMV0Fnb2lKZnNHcXJFV2dONTR5d3ZJcTZvVlFjblc3RTU4aUItamc?oc=5",
     "isNew": false,
     "major": false
   },
@@ -566,16 +646,6 @@
     "body": "微创医疗(00853)_微创医疗怎么样 - 热门讨论 雪球",
     "src": "谷歌·微创机器人",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EOW9zcWx4SUVIZnU2OHFESERkbTNwd2FkVzR5ODJRVXFpOWlCSWJhMk5zbUc5Q2R1dTE3Z1RUOTVCb2c0YlE?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.30",
-    "cat": "tech",
-    "title": "术锐机器人二闯科创板：“单孔”硬杠达芬奇 规模效应有待释放 - 财联社",
-    "body": "术锐机器人二闯科创板：“单孔”硬杠达芬奇 规模效应有待释放 财联社",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VeEJrc0xPRzZReWxxbFZueVBVQ3N1UVRWTGNFOWs0V2x0WnB3S0dXNHd1NzVGdlhEMC14Qk02U3dxa3c2dHFNcw?oc=5",
     "isNew": false,
     "major": false
   },
@@ -966,106 +1036,6 @@
     "body": "【新桥红医】脐下三分，痛减三成，单孔机器人刷新他们的康复速度 ByDrug",
     "src": "谷歌·腔镜机器人",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zWFRlZ3VSLTN6YVFDUTFKYm4xUDZUakYyM0tXem44Rm11YTVOcjRBYW5XLWg0SkM2N2lkSGJxanVPMTc4d0VlbkV4MmhmRWlFVnUtY1VSYV9rU09Bd1VaclNNd0R2ZWRud2ZzTHlXQmNwOGFQSUNSS1MtbnJodw?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.23",
-    "cat": "global",
-    "title": "Toumai/图迈是亚洲范围首个获得CE认证的腔镜手术机器人，也是全球第一款获得欧盟CE认证的远程手术机器人 - 中华网",
-    "body": "Toumai/图迈是亚洲范围首个获得CE认证的腔镜手术机器人，也是全球第一款获得欧盟CE认证的远程手术机器人 中华网",
-    "src": "谷歌·腔镜机器人",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BVTJ5Zkp5VDRTd0FpRExJaURDd1M3RHVVc2h1b0tfNjY2a3E5YW5ibUZGelVjT2xMcTRFdGJ5cF9KeGJUVHowdV9YSV9uSlE0bDlqbDVJN2k5QURGa2JQcEN0eHVKOUpBRlhIU2VBcDh0cGt3TUF3Qw?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.23",
-    "cat": "tech",
-    "title": "三种不同单孔手术方式在子宫切除术中的疗效与安全性比较 - news.ebiotrade.com",
-    "body": "三种不同单孔手术方式在子宫切除术中的疗效与安全性比较 news.ebiotrade.com",
-    "src": "谷歌·单孔机器人",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GZ1QyTURmU0IxLW9MNk9UM1ZfbmNhZndranYyM3ktNzVtSjhFLUJYRkxRMURJdDJsaGY3Z0RlQWJuSTAxU1gycmVyaXpaSUFCZmVMT0sxSFhaSXdCLTBOMGlpS3VWUQ?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.23",
-    "cat": "market",
-    "title": "达芬奇机器人如何实现精准手术 - 腾讯新闻",
-    "body": "达芬奇机器人如何实现精准手术 腾讯新闻",
-    "src": "谷歌·达芬奇手术",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfU1NHYU9CN2JWZzh2ZzNKbHlTY2tSRDJFblNZclkxZVdZVjVJS1hvblFqT0NtVjBWV2swbm5VWTY2SUx5V2JpS2xLT3JoNWEtT09kbjVn?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.23",
-    "cat": "market",
-    "title": "令人惊奇的达芬奇手术系统，是如何工作的？堪称赛博华佗 - 腾讯新闻",
-    "body": "令人惊奇的达芬奇手术系统，是如何工作的？堪称赛博华佗 腾讯新闻",
-    "src": "谷歌·达芬奇手术",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjWW1pOTh2a1RGWHhXOFlPZ1AzVjJfNEZTTFg0ZUlSUmdhdmhuVFdSQTBBZldsVmpqT1YwR1ljdXBKNndTZXlsQndPQ0NPNXl2akRscml3?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.23",
-    "cat": "market",
-    "title": "机器人可以给人做手术吗？ 达芬奇手术机器人 - 腾讯新闻",
-    "body": "机器人可以给人做手术吗？ 达芬奇手术机器人 腾讯新闻",
-    "src": "谷歌·达芬奇手术",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12VDY1dThodTBNckViRkRDdEFsMjc2OFFvMWl0Uk8xNHJRTmhRbkU0UWFmMHJXX0dVV3NsZ0R5OTZGRVBtS081THVnWWsxb2FWdlQzR3RR?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.23",
-    "cat": "market",
-    "title": "微创机器人-B午前涨超6% 本月内股价累计涨幅已超35% - 新浪财经",
-    "body": "微创机器人-B午前涨超6% 本月内股价累计涨幅已超35% 新浪财经",
-    "src": "谷歌·微创机器人",
-    "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPTklfUjNYYzBoZkxnNzAyU2hMNFZEVXNVMGxSSG1xVndzYk1NV3oxcVcteUt3V2hmbHB5V3IyTGRDREZZckRmSGNEUlktUVRCc05WOTRGNzRON1lLOW41ZndqaEp0X1JxZDZpcFJNRERjN3doamMzV1VIM2NMbEFESWJBcGg4bldfUzVsRFZLTmZYT3BZUEo0bmVYZnY5cU5oQ2huOWhoWTI3VldEVFp1V2dQbDEwc0cxZ3VFSlJhamhVaS1rbDRPbUxHM3p0bHVidjBhZElRR0Y5VDRrVDRXb0U5a3pCeXJlRXVlZzVibkE3V1dQNVBVVTIzVk56b0VQSFI5dGlqWHdEbWJHa2xzeUdVVVpScEdjQk84NW5XVjRyTko4c2ZleGlRWlkycUdPYUYtekxVZVRzVTFVRFB1UnpfMTA2RS14SC00LTNOSHBGem1kX2RUa2xsdzVhX0JjYW5iTXZYa195ajNIejBGTG1SamxpUkhxV0lTLThnOTAwMHYxWk50LTBfblJzOWJYdjY5TnJTellPOG9rSVB1UVJFRVVMT0JmVG1EaFdSM0wxcnplcUlDRzZBSEsyaFllb3c2bTdyNE5BMXdLMDMzNU5CSVZlVHV0WFZtY0NEd2o5MWhMeS03UVluWm5nemgwa1RCTVFGZkdUUU9pT0dyRjdYcmY3U3Myay1iQWxjeWlwMkJya0VZb19lcUJ6VF82ZmNJR3UzNHJzTUhlSGtRY3d0ZVAxd0d3ZjlkZ2s0NHgzNHRCYy12Y0w0ZlRaaTA?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.23",
-    "cat": "market",
-    "title": "手握“国际首创”“国内首创”组合牌 穿刺手术机器人行业龙头真健康医疗(02697)6月22日起招股 - Moomoo",
-    "body": "手握“国际首创”“国内首创”组合牌 穿刺手术机器人行业龙头真健康医疗(02697)6月22日起招股 Moomoo",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3hBclc2c2JTd3k1MjdyV1Jzaml5SEZRNlkzdDNfMl9YVDFwRGtncnBxVThnZVhkR1hGU2wwMUtKTzNZUmw4X0xsWVFVLWE1eGpZTVdrdHR5NmZuT3hEblJaZjZOYVpkNlQ3TXh2NDl6aF9kNjNJLWR4QmFHWTlZLXN2bTMtMWJ3SmRMUktRTjJ3bmxETlV4bmxoZzB2ZUR4Z0E?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.23",
-    "cat": "global",
-    "title": "早盘异动 | 微创机器人-B涨超5%，手术机器人获欧盟CE认证 - 富途牛牛",
-    "body": "早盘异动 | 微创机器人-B涨超5%，手术机器人获欧盟CE认证 富途牛牛",
-    "src": "谷歌·微创机器人",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3EtT0RkaGt1U2t5TkdjNHFQdWRlckZEOUZMWlEzem0zb2hpbzNHWTNmXzBlZVpGaGlxMEhvV1Zaa3NKWFA5YTJDVEZLZDNjTVVVWFNkZVlreFZsckFKRlM5M3ZZNFhveVdrTVFEal9tel9IMlppVVNGNTZldlZ0UnJnLUhwc0xnWHNFb0FvczVIcm85eER0ckNSbGtGX3M?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.23",
-    "cat": "market",
-    "title": "冲刺“穿刺手术机器人第一股”！真健康医疗-B启动港股招股 - 凤凰财经",
-    "body": "冲刺“穿刺手术机器人第一股”！真健康医疗-B启动港股招股 凤凰财经",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ub3dURHhCVV9ybC1aLU8tTHRHQ3lPamVqclFoZmVtM2NsOVlJRkFGcHlmZk1oSnVNODd0X0d5NzB1NjVJd09OY19xWFJ4ZXk3?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.06.22",
-    "cat": "global",
-    "title": "微创机器人-B：图迈腔镜手术机器人远程手术全科室应用获得欧盟CE认证 - 新浪财经",
-    "body": "微创机器人-B：图迈腔镜手术机器人远程手术全科室应用获得欧盟CE认证 新浪财经",
-    "src": "谷歌·腔镜机器人",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR3B3RnJEU0t3TEwybThMdmFkSEtTVXFzZHh0R3JmbEtxMW1NNHdTa2dWb2JXQTZDTUJLM18tdUM3Y1lPbnVHUnJ6Q0Z5NmQtOFNzZ0ZyZTBlZGw0azgwQUFEVlR2d2ZEVWNJZXZ5ZFFlTXlYVkQ4M00waDkxLVdHUTJucVUybjBOTnpDVEJWVkRwX2k5SW1rMWJSS1hmYXZaYWZodE1la1Z4aHZpWnF6aWFxSkxnNGMyR1dQNGp2dE1EbHJGNkZtUi10QXkyN21xdlVHbXNaQUI5WEJZRWVWc25UOUZ3Zw?oc=5",
     "isNew": false,
     "major": false
   }
