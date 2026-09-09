@@ -1,11 +1,31 @@
 [
   {
+    "date": "2026.09.09",
+    "cat": "market",
+    "title": "三地联动，江苏省肿瘤医院单日完成三台远程机器人手术 - Sohu",
+    "body": "三地联动，江苏省肿瘤医院单日完成三台远程机器人手术 Sohu",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEFJeDVoQU51NmxBU3hyWFZoU29kY3AwXzExRWxzZEhDNXdCWHNRZVlHb2lQSVI4c3BrSHpJUm1RTjFrdkhHRzlxWjlud1F1a1hjNmhoSmtjazJ2XzZTRmpObFBlcWd5ZFgzenJQNXc2Nl9KUFZNVmhrVVg4VkQ4QzM1bXNZY2VjeU9hYg?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
     "date": "2026.09.08",
     "cat": "policy",
-    "title": "涉及机器人手术、无痛分娩​⋯⋯国家医保局连开两场解读会，讲解按病种付费3.0版分组方案 - 凤凰网",
-    "body": "涉及机器人手术、无痛分娩​⋯⋯国家医保局连开两场解读会，讲解按病种付费3.0版分组方案 凤凰网",
+    "title": "涉及机器人手术、无痛分娩​⋯⋯国家医保局连开两场解读会，讲解按病种付费3.0版分组方案 - news.ifeng.com",
+    "body": "涉及机器人手术、无痛分娩​⋯⋯国家医保局连开两场解读会，讲解按病种付费3.0版分组方案 news.ifeng.com",
     "src": "谷歌·手术机器人+医保",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NUUMwU1R2ZTJ1OWdobEZGNXVuUUpUdTkzQzVZM2pzdThHR0g4dXJ4QlhhdG9aRC0wWW03My1QeVhuOGo4dHIxZg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WazhmV0tJUHBxNjdfM1JtQ3lBRXhtZlhfOWNZNnllQ3FhZ3hXYjY4eDhuNTZLc3JrRmdDcGloUjZLaE82VlpqaFRWUTY?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.09.08",
+    "cat": "company",
+    "title": "达芬奇20年走过的路，国产机器人们能用5年走完吗？ - Sohu",
+    "body": "达芬奇20年走过的路，国产机器人们能用5年走完吗？ Sohu",
+    "src": "谷歌·微创机器人",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2h1bEppTTRzSWM5bHZaNGE5UUg4VGduYWpqaDFkeFJUQ1dsQkdhOHdJYjY4V0lhUG1yRWRtREJkMnZOUXlPb1l1a0dobmV2aVpNamZMN3ZMcHk0UnB5MENPUWpFOF82MkhNMUlZeUtnWXFMZWdoQUZGc0VxNURwMzRhYmp1UHdW?oc=5",
     "isNew": true,
     "major": false
   },
@@ -56,16 +76,6 @@
     "body": "DRG 3.0首给机器人手术\"开绿灯\"：9个病组落地，创新器械迎来支付端破局 Sohu",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekVDVWtxbUVlR19qaDZKRHMzc1RWbWVVY1k2RThybmFkZ3A1UUJtZExRT3RYLW9TUHpVbWpyVFE2Zm9SckpqM0ExdjNxaDhSRDItTU9FRThwOU43MmhqWlEzYVEwSDYxWnZ5VTRzdnh1TXJTclEyVmNOcm14b2ZJdS1yd0hhTFZu?oc=5",
-    "isNew": true,
-    "major": false
-  },
-  {
-    "date": "2026.09.07",
-    "cat": "market",
-    "title": "达芬奇20年走过的路，国产机器人们能用5年走完吗？ - 36 Kr",
-    "body": "达芬奇20年走过的路，国产机器人们能用5年走完吗？ 36 Kr",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yY1A5VVpKUG9samFKMFhiZXl2cXM3YzNVVGc3SUI5MFlIcDhoQTJ1TDlSWkttc29td095WmZET0NEQnNRZUl6NDNfNFF3dw?oc=5",
     "isNew": true,
     "major": false
   },
@@ -126,7 +136,7 @@
     "body": "全球首次脑机接口远程手术成功，2023开户体验金送PT助力神经科技突破｜现存相关企业超3.2万家 体坛",
     "src": "谷歌·远程手术",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51ZmhnUVgzbE1jN0pnQ3pSM0d0NmxPSmUtZG5CanlPbUZQck12TXJ3d2wwbVB4SGJtbzdvc1diQml6XzFqLXFYRExxakhfTkdiY3NJ?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -136,7 +146,7 @@
     "body": "“南京造”手术机器人隔空“传”力千里操刀 t.cj.sina.cn",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ENFB0TVc1Zy1UdHVuOU84T281enRQbDVpVjZvTVFOeXlpV1NzbFFqSERvNzlwcl83TWRSalZQRjRUeU1yeFZRSVhQRVJIVmJVTnkxSWJkdHJfYkllNTBOckd3VnE2V2E4T01mSk1LUEJSQQ?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
