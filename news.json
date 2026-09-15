@@ -1,21 +1,61 @@
 [
   {
     "date": "2026.09.14",
-    "cat": "company",
-    "title": "精锋医疗-B拟发行人民币股份 已提交上市前辅导的登记申请 - 新浪财经",
-    "body": "精锋医疗-B拟发行人民币股份 已提交上市前辅导的登记申请 新浪财经",
-    "src": "谷歌·精锋医疗",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTndaNTBwb29zaThKSFNyU1dJNUxRYncwVnVwX05fc1VRTWo1NmdpOVp4NUIyZFkxem1NRHRic2tWUXVYOU5CYy1zR09iWWItcWdNdXE3TW5XTmxxd1BabXJsZjU3QnlvTm4zS1c3REhJTEFsdHhLZ0ZrWGVlVF84b2lmcEV4UEpiM2c?oc=5",
+    "cat": "market",
+    "title": "1400万例，达芬奇机器人优于传统手术 - 新浪财经",
+    "body": "1400万例，达芬奇机器人优于传统手术 新浪财经",
+    "src": "谷歌·达芬奇手术",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pdHZsMWU0S3Y5anowVE55UWxBT3lnNklNZDNTSFZvcFpmdDNQdy1HWnlrdGp6Z3VmYW5Pcll2cW03UGVKRFQxenp6Z2hmTG5sV21VRG5Ib2xNSllzX3ZVbGQ0TDQ0TnB2V0RHd2lhQndHejYxcHZCTA?oc=5",
     "isNew": true,
     "major": false
   },
   {
     "date": "2026.09.14",
     "cat": "market",
-    "title": "中银国际：机器人辅助外科手术优势显著 国产手术机器人加速突围 - 富途牛牛",
-    "body": "中银国际：机器人辅助外科手术优势显著 国产手术机器人加速突围 富途牛牛",
+    "title": "从\"能不能做\"到\"能做多难\"：国产锟铻全骨科手术机器人在博鳌给出的新答案 - Sohu",
+    "body": "从\"能不能做\"到\"能做多难\"：国产锟铻全骨科手术机器人在博鳌给出的新答案 Sohu",
     "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkZ2QW5fMTRBV1o0OUlibmR5eHlaa0M2R284cGRZWjJYSWRSOXVwZW95SXAxaDlyaU5fLXhqRUtjZTc5SHVWT3pRTDRnRmtDal9VYzhkWmhOT1VTU19YdUNqejF1LVBXLS1INHAxaVFELTNfbDVSdlFpY2RfaVByNlhiTGY4ZG9XaENpYjJvQ28xNWRaWncyZnVLM2F2WWZ4TU5KR2YwNHQ4TlJhSDJtUUFIRU9JdzZoNktzTjJub1VqS3Fm?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFBRNW1NbkI5YmpmbXp6bEtqdEQtNjQzelZkQk9sNWVhVVNHRi1idHliUXhIX2hyNFY1SVU2VWR5TDFXZ2xFQ1dHV050ZGltUWQ5ZVV1OFIxdU85YXIyRmJrYmVMRmNDSU5qajE0UWdBNC0tclR3akNhRzVsYVVuMm5XT05Hdmhi?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.09.14",
+    "cat": "policy",
+    "title": "支持手术机器人规范合理部署使用 适配各类创伤救治场景 医保“不抠门” 力挺手术机器人创新 - 新浪网",
+    "body": "支持手术机器人规范合理部署使用 适配各类创伤救治场景 医保“不抠门” 力挺手术机器人创新 新浪网",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pNjc1SEd5ZHZNSC0yUUdQZ0JVaUJtcTd5SXM3UnlkdmlEajkwLU11Z2pPVEtTYU5RbHdaakwyc043YnFIRFJuUng2TWxfWW5KRzY1YjRFSTlrdnJFdlVVeEJKOE16R0JHenY4b29Zc0R0cEpZM0RDYlZsUW9qdw?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.09.14",
+    "cat": "market",
+    "title": "中银国际：机器人辅助外科手术优势显著 国产手术机器人加速突围 - 凤凰网",
+    "body": "中银国际：机器人辅助外科手术优势显著 国产手术机器人加速突围 凤凰网",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLSHQwcXFBSXM2bmE4aHZjblQ0OFYwZGE2NTBwRWFZSHQ2YkxjUnYwRUFxYkd1ZUczdXdFck5qdDV6OHpNMWxnbg?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.09.14",
+    "cat": "tech",
+    "title": "手术机器人软件立规：力反馈、组织识别与双控制台都要拿证据 - Moomoo",
+    "body": "手术机器人软件立规：力反馈、组织识别与双控制台都要拿证据 Moomoo",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tMWNGUDJpRVB4MnFTeDg0TjZfYmctcGx1emNjZXo0NlNHMHJ6M2ZTakdyMWxUeGc5M044eksxNGFtTUQ2R29MOTBROFRfSE5OTDNhZFpyOWZOZw?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.09.14",
+    "cat": "company",
+    "title": "精锋医疗-B拟发行人民币股份 已提交上市前辅导的登记申请 - 新浪财经",
+    "body": "精锋医疗-B拟发行人民币股份 已提交上市前辅导的登记申请 新浪财经",
+    "src": "谷歌·精锋医疗",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTndaNTBwb29zaThKSFNyU1dJNUxRYncwVnVwX05fc1VRTWo1NmdpOVp4NUIyZFkxem1NRHRic2tWUXVYOU5CYy1zR09iWWItcWdNdXE3TW5XTmxxd1BabXJsZjU3QnlvTm4zS1c3REhJTEFsdHhLZ0ZrWGVlVF84b2lmcEV4UEpiM2c?oc=5",
     "isNew": true,
     "major": false
   },
@@ -31,21 +71,21 @@
   },
   {
     "date": "2026.09.13",
-    "cat": "policy",
-    "title": "远程手术室装上“黑匣子”（医工前沿） - 新浪网",
-    "body": "远程手术室装上“黑匣子”（医工前沿） 新浪网",
-    "src": "谷歌·远程手术",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBWkt0X1pjUjFOeHZVNVNqdWlLclV2cjVyY2pkdzZLbktaQU5KZVVXM1V6REVmTl9WN0RKLXlGVjNqQzZJRVB5cWFlZG9zRDdiM0pxaF9WdS1pU1RITzZNYktGYV9vYWM5UlZacjNwZw?oc=5",
+    "cat": "market",
+    "title": "北京市属医院手术机器人达54台，上半年服务约9000人次 - 京报网",
+    "body": "北京市属医院手术机器人达54台，上半年服务约9000人次 京报网",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FX1JMeWl0Q3pnYXhqcEFnbkFEdTN2d3p5V2JWYU44NTllUDdlVnVFR2hFOTJUZ1Y0dUIzZVRiTFozYlFlbGtKdURrenRyYml6dUJ3X3ZZMVJjUVVYa19YSXpXQnRCS3dRWWhEMFZxTGtnZw?oc=5",
     "isNew": true,
     "major": false
   },
   {
     "date": "2026.09.13",
-    "cat": "market",
-    "title": "北京市属医院手术机器人达54台，上半年服务约9000人次 - 新浪财经",
-    "body": "北京市属医院手术机器人达54台，上半年服务约9000人次 新浪财经",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVcHU2LWd2d04wdDJjY1pnTnpUUWlNSlJaajA2REszX1Y2VlNtV1k2SlZjRVhuRWtvcFJSNVRMbks5TVo5cmwzcllLbzZVYXJWaEdHdjh2WU1EMVZpRXU4ZnFRb25OeVNaemRVcWl5Ry1RWFhLSkxrbw?oc=5",
+    "cat": "policy",
+    "title": "远程手术室装上“黑匣子”（医工前沿） - 新浪网",
+    "body": "远程手术室装上“黑匣子”（医工前沿） 新浪网",
+    "src": "谷歌·远程手术",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBWkt0X1pjUjFOeHZVNVNqdWlLclV2cjVyY2pkdzZLbktaQU5KZVVXM1V6REVmTl9WN0RKLXlGVjNqQzZJRVB5cWFlZG9zRDdiM0pxaF9WdS1pU1RITzZNYktGYV9vYWM5UlZacjNwZw?oc=5",
     "isNew": true,
     "major": false
   },
@@ -71,6 +111,26 @@
   },
   {
     "date": "2026.09.12",
+    "cat": "tech",
+    "title": "沪藏联手 国产单孔机器人“隔空”施术 - 新浪网",
+    "body": "沪藏联手 国产单孔机器人“隔空”施术 新浪网",
+    "src": "谷歌·单孔机器人",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGlQSGRsYm5wX1BtenF5UWhPNVFna0hiY2tlM1p5U1JHQmk1TVF5VURhYjFpM24wdU1iQjhTUmpwc21wa2NJV3VMNFhHYkdrbW1oNUlfUkpPZkc0Wjh0NW81OVFxWGd2XzJ4ZW5EY2owYzQ1cmFyVS1rZXpBdkRpWHFRSQ?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.09.12",
+    "cat": "tech",
+    "title": "国产单孔手术机器人+5G高速通信，沪藏联手填补西藏这项技术空白 - 新浪财经",
+    "body": "国产单孔手术机器人+5G高速通信，沪藏联手填补西藏这项技术空白 新浪财经",
+    "src": "谷歌·单孔机器人",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoYzJYUEtVX3BqRXZGWWUzLURqZGN1LVpTOEdRWnc5ZTZoc3pxc2FFRzNRczNuVS1JODczN0Y1V1QwcFFmNko3cGM3RlczYnlyMkZkRXR6UHk0RDNfam5SR2NuWVVxdDJ5MmM1RHdRSWZUTGg3WF9xdg?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.09.12",
     "cat": "company",
     "title": "精锋医疗(02675)计划A股上市，已聘上市前辅导机构 | 港股公司A股上市 - Sohu",
     "body": "精锋医疗(02675)计划A股上市，已聘上市前辅导机构 | 港股公司A股上市 Sohu",
@@ -86,16 +146,6 @@
     "body": "手术机器人硬控蒙古国媒体高层Мэс заслын робот Монголын хэвлэл мэдээллийн удирдлагуудын анхаарлыг бүрэн татав|川观新闻 川观新闻",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tRXkzYmlkMTJfSkctYTF6VVZ4TWYyVnJGM2tQbXZpV0xkWUxQMExTSm5vamZEX0h0RGtKVF9WMGVhdTBUajdmNzBzTDdTUQ?oc=5",
-    "isNew": true,
-    "major": false
-  },
-  {
-    "date": "2026.09.12",
-    "cat": "tech",
-    "title": "沪藏联手 国产单孔机器人“隔空”施术 - 新浪网",
-    "body": "沪藏联手 国产单孔机器人“隔空”施术 新浪网",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcW5rZUlaMUJJdS0xaDN0dHRWc0l6Z25rdnJvWWZUR094cWliNS1ObVJWSHBRXzhpOUZuVHQyZkU0Zk51dlBxcmk3WmU3T0ZyaHRSLUNWTExjTmQ1ajRjc3VWeEtjcmFnaEFGckdsdjF4TVdkQ0pjeGZKOHZzSmJGS1RGa0ZaV1ZVSU5iMUktT2d6WnZzQVNpbg?oc=5",
     "isNew": true,
     "major": false
   },
@@ -130,13 +180,13 @@
     "major": false
   },
   {
-    "date": "2026.09.12",
-    "cat": "tech",
-    "title": "国产单孔手术机器人+5G高速通信，沪藏联手填补西藏这项技术空白 - shobserver.com",
-    "body": "国产单孔手术机器人+5G高速通信，沪藏联手填补西藏这项技术空白 shobserver.com",
+    "date": "2026.09.11",
+    "cat": "policy",
+    "title": "国家医保局召开手术机器人专家座谈会 7家厂商5家医院代表参会 - 新浪网",
+    "body": "国家医保局召开手术机器人专家座谈会 7家厂商5家医院代表参会 新浪网",
     "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lVU9hTWp1T2I0bXBLSFA2dDhHSU91T2Y5Y1JCbXV2U0lieHdQYWw1a3VEbmFoSXRrdzEzWEFVMnJvcUJKd0F0SGNnandoS1lwZXlVRmlIVmo5SHFQdUE?oc=5",
-    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51UTlZano2UU9CN1duV2dmZDFTdFZZdFFabi02QUQtMUVqdXFYcWUyN01nMndrMUVyR19xQlBnUmpoRy1aSkNxbVd1amUtNjhzbC1iQzBBSm9OT1lvN3RabGtYTEdrQWlCSEl0Qm80WGREOTVVd2h4bHJyMnQ?oc=5",
+    "isNew": false,
     "major": false
   },
   {
@@ -146,7 +196,7 @@
     "body": "大华继显：微创机器人首予“买入”评级 目标价29港元 新浪网",
     "src": "谷歌·微创机器人",
     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQOUlZQmo2MmMxWE0xYnpUMWk2aXF3dTVlVHdCV0FxQkxkS0FZT1drcFc4TXZ1NzdZVFpBYWl2czJqXzB1QUtZeWdfUHc5VE1DUHJRY3FjYkdNZUdRUERsd2lzOWtTVHFqOWhKZFJramJvcERnX1VtRnNwZmtTd2ZnX1VTTTRQWFhZdHhqRUJQVFNRWWVuY1pnZVdjRS0xLTFKNE9jSXE5WVVWejZDM1E3RXhFSHZINTZROWxFM2h1SkZvZkIyeUQwZDZGYVRGTkdPZUwtSm95U1BpaU90Vy0wUTVxLWhtSERWaGpwTk1xX09pNFVaM3dwLXRKV1h2MlQ0VjRET3cxeHg0VkVVcXgzWmRwazVrVVVkSS13bWZWWmNWdEg4Y3MwcWdzUkd5TGUyT1ZYM08xdjFVNFd6WmFNN3plbDlrWnd2S0hlX20zS216RVRRSXJfX3F2M0ZNOXAwcjM5clRwSVR5YU1jQS1GRTdFcXNXYTUzSzc0RHJiXzYwblRQODg3UXk5MlRHTjVKdUpyUVU0c0xTWXFnMzhYYmRuX18ydmpXdWFtYndOTkpqTXl6SG4zRGRpeXpWSHlna3doVlQwcFJKV3lGV1ZaYWFqQ2Y0UU5VaE1iVlU0OHh6NGVJcm5PTjdMZTBLNkRtbUdoZWN1SUpVUjh0UmwwdS03b18ycS1POGlZRF9jQ1RqZWcyWjlmWmVmMUF2RFJlS0FqZW9veXdZMGN1X0Q2cjk3RlVnVURrZGFYWmladTcxcGgtZXA0cG1kYVBWOUdvYkFLbnJxWXI2enNLS3pB?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -156,7 +206,7 @@
     "body": "三地联动，江苏省肿瘤医院单日完成三台远程机器人手术 新浪财经",
     "src": "谷歌·远程手术",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBdnY5czNER3NieDB4UXpMbHZRd1pMbE9LSDJwblV0OTVabmt6MjhiNVFUR250aHRDa1BDT3J1VFdXNXdBR1k4V3NhbGNOOUJqSTU0WWxWdWg1bnRMVkZPYnltb2NmWEFnNVVFRl9tb2R1ZVJqTFE?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -166,7 +216,7 @@
     "body": "9月11日港股其他医疗保健行业沽空数据盘点，先健科技、毛戈平、精锋医疗-B沽空金额位居行业前三-证券之星 证券之星",
     "src": "谷歌·精锋医疗",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tTFY0b3BoYVc2X2w2STJZNUl0aGdRWTNjWGIwb1hLZGR4NTA2TVFYczFRdDI5OFpGX2xsbHVIMld3THJCSkZPcTBwNXJCWWxKZFItaTVNWnlxMzFMd2c?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -176,7 +226,7 @@
     "body": "AI移动医疗车、关节手术机器人、康复机器人……2026服贸会前沿技术亮相 新浪网",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWl3NWNrNjFJSUpCelpMdWhrZmtTWEJPNExlN3JKc3ZLbS1oekZlS2wzRVYzTDFLZlJqd3NzTm9NYW1yOENHMlMycU45S3N3djRJU3hkSXZRenI0ZUV0UHFzTGZyTzFXTnM5WXNWanNYV3FtczlSbGxFdEF0b1FlMw?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -186,17 +236,7 @@
     "body": "精准筛查、AI诊疗、手术机器人……服贸会医疗创新上新“硬科技” Sohu",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjBfUzRBdmY3MW1DcWc0M1FiSjdiRVN1MEYwbzdja0ZXcjBEM2xpYW1YQzJOQ0NRR1gyUTVyWll5NXloVGRrcHVROFpGSUQtejRyYzBOUTBkSFNSYnJ0YVpFSVJ1YmJGVzlIdjR3bkVSbmJUOVJCR2VFUFM0cW9WajBzTUtUdEdPRGVBQQ?oc=5",
-    "isNew": true,
-    "major": false
-  },
-  {
-    "date": "2026.09.11",
-    "cat": "policy",
-    "title": "国家医保局召开手术机器人专家座谈会 - 新浪财经",
-    "body": "国家医保局召开手术机器人专家座谈会 新浪财经",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81aGlBS24wRFFEbENaaDFGcG53eE1YeVNfaFNIaUgyRTFEOTdla0R3MWFhc2xVWHNzTEhvN3dLV3JEdk0zbVVETGRyN2hCRnNrRFA0M3ZXOW1PdXdJQTBxaFNZYW9wQWRhZ3c5Y3A1clhxVkVWa2dpcw?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -206,7 +246,7 @@
     "body": "今年前八个月，北京积水潭医院骨科机器人已完成近4500台手术 新京报",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PSmV4Y1lEeDlicDdxOXRSWkhRbjlDUVZjcC1JSWJnU0o2bkZyS0dXajNRLW5nSWNISmYwTE9zdlFhU0xQak4zcThTem16X01mUmVIRU53Y1lVeGpRdWpUQXVmSEg?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -216,7 +256,17 @@
     "body": "达芬奇SP单孔机器人乳腺癌微创手术：保留乳头乳晕与术后美观指南 medfind.link",
     "src": "谷歌·单孔机器人",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1RbEtPLWJrUjg5OUpPWG5EWHA2ZmdQdjdyLW5WbFo5aEEweVV5SkpWQ3owaG1FZkMtWl81cGd6SEZmdXMzVEdZ?oc=5",
-    "isNew": true,
+    "isNew": false,
+    "major": false
+  },
+  {
+    "date": "2026.09.10",
+    "cat": "policy",
+    "title": "国家医保局局长章轲在京调研医疗保障工作 - 新浪网",
+    "body": "国家医保局局长章轲在京调研医疗保障工作 新浪网",
+    "src": "谷歌·手术机器人+医保",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbzEwdmk4MTZla0hwVUE4ckwwVjV5STh2QWxldzZsX3k5emxQQmhwWlR1UTlVdXREUFIwOEM2akdJVV9NQlp2a21SYVpfd0l6dEJMb0lLVmJKZjJMNnpmNXZzaEtWQVF0WlkwWlE3ZVc3SG10VG9yZ2dmQzJFMmpkaDFPaTY?oc=5",
+    "isNew": false,
     "major": false
   },
   {
@@ -246,6 +296,16 @@
     "body": "「骨科手术机器人」AI平台影响力品牌榜（2026年8月） 财富号",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qb1F2bzQxSXhhVEh0M3NuNU1yOXdHajluN2F6TDcwbzNzcllPYi03UElkQlo3elczU196T1VQTmc5NVYzOWxaUV9LaTRmX0NKOHBHaTRLeVhFOUlGWDM1NU9TRXVZTXo0VUh3?oc=5",
+    "isNew": false,
+    "major": false
+  },
+  {
+    "date": "2026.09.09",
+    "cat": "market",
+    "title": "实现零突破！中山完成首例达芬奇机器人手术 - 21财经",
+    "body": "实现零突破！中山完成首例达芬奇机器人手术 21财经",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMXBNaWNIN05adDctNzJ3N20tYkxIMEg0NllFblUtaFhScGFhV3ZmR0Ffbzd1YkVTemZfU0tUTUVWTE9rRTF6TFRPcDNwSWRFMmpRMXVJd2VSNVlLdFB4WHhkbHpWWUhfRUY4dmlNbE1qNWlOVVV6QUNCUWdNNVpCdzFNSTB1emY4LVpkTA?oc=5",
     "isNew": false,
     "major": false
   },
@@ -296,16 +356,6 @@
     "body": "直觉外科公司研究发现达芬奇手术可缩短住院时间 提供者 Investing.com 英为财情 Investing.com",
     "src": "谷歌·达芬奇手术",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TNkk4dWtPdmwxTWtVUVhjR2VvYmk4RXYzNmJBaVVBcTYwY051cEV6U3RNSS1saDl0YUZPcmVPVEZ1czdrWlA0QkIzR1AxQUwza2x5bE5mMlAwYUZrdDd0VUQyQmlXVk9ETzBzZDI4ZTg?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.09.09",
-    "cat": "market",
-    "title": "实现零的突破！中山完成首例达芬奇机器人手术 - nfplus.nfnews.com",
-    "body": "实现零的突破！中山完成首例达芬奇机器人手术 nfplus.nfnews.com",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIcXpJMGlmZlN5R1VKVGxldEh2bTFyWFk0OUxyZnM3UVNNcnhBaW9KbmJWVm90bXhVYURibXEwUHJGSWdSUVNRcENFLUJIRjNXNnpCbEhaREFSRXFtTWRCQnhON09INzEwVGc?oc=5",
     "isNew": false,
     "major": false
   },
@@ -395,7 +445,7 @@
     "title": "【深度】微创医疗高额办公室房租与神秘房东的关联疑云 - Jiemian.com",
     "body": "【深度】微创医疗高额办公室房租与神秘房东的关联疑云 Jiemian.com",
     "src": "谷歌·微创机器人",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0Ylk4cGg4Y08yNV91ZDVhSXFxa094bmZZSVcwTFlWZUR1OUpyOFhELUtwZXo3OXZRX01aYlRqRkFyMEdEUVgtTHVGM3k2cG1oekFFNEN0WnA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XRjUzUzRFMWJLdUljLW1tdi0wNEI2VWFXVzVHaUd3WVd6dTFPTUVkcGJKME9oQ0VFQ21rT2xfc0FYS1FsZ0JwNlZIOXViNVg0aGQtWTNB?oc=5",
     "isNew": false,
     "major": false
   },
@@ -1076,66 +1126,6 @@
     "body": "微创机器人-B(02252.HK)发布公告，董事会已透过决议案成立辖下环境、社会及管治委员会 搜狐网",
     "src": "谷歌·微创机器人",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXAwS1ljMjUzS1lfUEFsU1dLNEo1QXpVVXgydmhPekxnbVNCYVFWakFieE1PN3NHYW1GbGhMMDZiSllYMHBQbzdPOEJEck1ZdzJZZXNyMWQtVm5oeFozOU1JMnFybmhlZ0JhVFZESkt3M0ozaDNDT3FJOFIwNnVoQVEwU0QxSGtoNWFlUQ?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.08.27",
-    "cat": "company",
-    "title": "微创机器人－B(02252)公告及通告 - [董事名单和他们的地位和作用]董事名单及其角色和职能 - 新浪财经",
-    "body": "微创机器人－B(02252)公告及通告 - [董事名单和他们的地位和作用]董事名单及其角色和职能 新浪财经",
-    "src": "谷歌·微创机器人",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa2djRWRSU1lIWUJUajFQMmFHWlVEYXJ1ZHlUZWthZ1BwNnZvaEhVdVpKd25VMS1tMkVBSEJ3N1pwbTBnU1o0WXlnRVZXS2Z3ODJyZnk5UUhkSXNfUHRiclVfaGxlSll3SEFJdmM5cjhkLVktNFV6cmJ0dHpUd0RkaTBDY1dySGs?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.08.27",
-    "cat": "company",
-    "title": "怀柔区首例骨科机器人微创手术成功完成 - 京报网",
-    "body": "怀柔区首例骨科机器人微创手术成功完成 京报网",
-    "src": "谷歌·微创机器人",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UY2lZdjRQd183OUVkeFFWSXNjY2Zvc3BvWHNjSVpHbk5rOVNGZ2VqTGVuZGIwT2ZCY3p5OFVMMW9yWmI0aDZ2MGtxcGFFYWJlQjNpUFJhcjRlejdQN2hwcl9MZUIyaWhKRWJXMnZXTkg1Zw?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.08.26",
-    "cat": "tech",
-    "title": "一家三人接力减重：16岁少年接受单孔机器人减重手术，重获轻盈青春 - 凤凰网",
-    "body": "一家三人接力减重：16岁少年接受单孔机器人减重手术，重获轻盈青春 凤凰网",
-    "src": "谷歌·单孔机器人",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZeHV1dU94MENTYTUxc2tLNVhpT1ZiN253bXlTOTAxM3lOOWNLWm1PQ1pzU2J3UkhxcUZWaGJoRlBwcEdZNkpVOW81YWk?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.08.26",
-    "cat": "policy",
-    "title": "5G架桥破壁 千里同台保肛——西安交大一附院成功开展远程机器人手术 - 华人头条",
-    "body": "5G架桥破壁 千里同台保肛——西安交大一附院成功开展远程机器人手术 华人头条",
-    "src": "谷歌·远程手术",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHhOQ2RmR2ExTGY0dnluZTFMUlFubzNPckdFbEk2SlhhWlJiWnZuZnRjZ2FtQVBOVjBpaDZ4WWVFWDlWdUMySkgtSE9EbXpJTXdock41OUxHQ3BnS3puLVNaSmladVB0THExX3J3LXFjUklJV3JaNF9vaUF6Mzl6NkE4ejlUbHFI?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.08.26",
-    "cat": "policy",
-    "title": "菲律宾完成该国首例远程手术 - UA.NEWS",
-    "body": "菲律宾完成该国首例远程手术 UA.NEWS",
-    "src": "谷歌·远程手术",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUs3NGZoNnJWQ1FDcEkySVV1NjBSVmJaenZkNkwyUkFnbU52RXZreTY1Y2RTRk8wa3BTamViWUl3R3lqTThwMGNmOVR4SE04WWVsdUg4TGgtaDV2VGQ5c1FoQy0zdEU3S3M2bjRZc3U2eUtpbjlFbEkwS2NDZVN3V0tLeTBWLWs3ZS1OY0d1Y19HZw?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.08.26",
-    "cat": "policy",
-    "title": "突破地域壁垒！4000公里超远程眼科机器人手术实现临床落地-MedSci.cn - 梅斯医学 MedSci",
-    "body": "突破地域壁垒！4000公里超远程眼科机器人手术实现临床落地-MedSci.cn 梅斯医学 MedSci",
-    "src": "谷歌·远程手术",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TVGxLUHQ2OS0tOGRsTEZFVHVBb20wZi0xTm1NSFUzMFpiRmRCZWlGbUQ2ZDUtY0p3VGZHUHU0ekFVNXdEV0gxajVLRUhOVHB3LXJCNTg1V05QZmJkUUlPUkZJcC1pVFMyNVdROHNB?oc=5",
     "isNew": false,
     "major": false
   }
