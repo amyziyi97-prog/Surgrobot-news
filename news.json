@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026.10.05",
+    "cat": "global",
+    "title": "【券商聚焦】中信建投维持精锋医疗买入评级 指海外销售高增-证券之星 - 证券之星",
+    "body": "【券商聚焦】中信建投维持精锋医疗买入评级 指海外销售高增-证券之星 证券之星",
+    "src": "谷歌·精锋医疗",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1od0s2Zk1CWUc5d2ZBdFNwV1ZmUEkzQnZXNzV1SkptRzctNW1DZHlMMXh5YldzLW5oNElTajhJbnNHS3ZvZU1iRHlEcXJaWFJ1a2E2eVVXS2RtN3hHWWc?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.10.04",
+    "cat": "market",
+    "title": "手术机器人 Transformer (SRT)：用于手术任务的模仿学习 - alphaXiv",
+    "body": "手术机器人 Transformer (SRT)：用于手术任务的模仿学习 alphaXiv",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MeXBKRXdnTHlvdDBBeDQzcUtsMGpZNk9DZ2pZZUZRSWUwSGFfWnZsenM4MUFQM25LdDdwNHRWT2R2QWZZY05OM21qdnMtb09tVV9ocFVnYw?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
     "date": "2026.10.04",
     "cat": "tech",
     "title": "基于单孔机器人系统的模拟吻合任务中机器人辅助基础手术技能客观绩效指标的开发与验证 - 生物通",
@@ -37,6 +57,16 @@
     "src": "谷歌·精锋医疗",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzI2aUdqLV9HSGdwMTQ1MksxOFFRV0xSa2xMcDRNeTMtdHZIOFc1bE9sMktDU1kwOWxXVGhpenR3SENzWjF4S1NnTW82eTB1a1FQVXVzWU95bzlYZUNCQlpOVnR6bXE1ejV4d0tTTV9fWjJlbGRXT2N6aUxYbzBWb3NPM2hDNlQ3b2l5WHdOYVhDMEhSRnc?oc=5",
     "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.09.30",
+    "cat": "company",
+    "title": "港股异动 | 精锋医疗-B午后涨超5% 精锋多孔腔镜手术机器人在新加坡FPH顺利投入临床使用 - QQ News",
+    "body": "港股异动 | 精锋医疗-B午后涨超5% 精锋多孔腔镜手术机器人在新加坡FPH顺利投入临床使用 QQ News",
+    "src": "谷歌·精锋医疗",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ282ZTl1MEx2Z09sNFBIazd2bGZGUThHcjhmVjdvT05VU2s1WlNfMkJaWHZEZ09uTGdzZ2NlejlubXNuWU9Xd04yWXcyZ0tyY2NPeFZYeGhqbWdlcmZhbWZB?oc=5",
+    "isNew": false,
     "major": false
   },
   {
@@ -956,26 +986,6 @@
     "body": "填补江门空白！国内首创模块化手术机器人在开平临床使用 21jingji.com",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTBtUVd6dmlnd05PcXN2eFAtRFYySEpaWHZ3NTVpNXNCXzJxZnZDOGQ5T29mYXZ3ZHpsVmRHdWZ5cWZLQzdsNWk3bWdXUHFqWWhTd0NPNFdJdGZ4b0x4UFlzYnBaT2x6SGVBUURiQU9SN19PWDdGMmt6ZmZYTDI1WXpjWUJkejlZT1R4Tg?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.09.09",
-    "cat": "market",
-    "title": "实现零突破！中山完成首例达芬奇机器人手术 - 21财经",
-    "body": "实现零突破！中山完成首例达芬奇机器人手术 21财经",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMXBNaWNIN05adDctNzJ3N20tYkxIMEg0NllFblUtaFhScGFhV3ZmR0Ffbzd1YkVTemZfU0tUTUVWTE9rRTF6TFRPcDNwSWRFMmpRMXVJd2VSNVlLdFB4WHhkbHpWWUhfRUY4dmlNbE1qNWlOVVV6QUNCUWdNNVpCdzFNSTB1emY4LVpkTA?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.09.09",
-    "cat": "tech",
-    "title": "启明大学东山医院机器人手术突破1万例：非首都圈首家，单孔手术连创“世界首次” - 코메디닷컴",
-    "body": "启明大学东山医院机器人手术突破1万例：非首都圈首家，单孔手术连创“世界首次” 코메디닷컴",
-    "src": "谷歌·单孔机器人",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zNmhlRnMwempBSHpSVU9WS1A5WEowVnFnMkY4M0xQc1d2MzRwX3JmdE5paHVKMzNOTGhWMHg1UXJxejhpNFNqY3JvYU05cGk0RnF5ZmlSRGg?oc=5",
     "isNew": false,
     "major": false
   }
