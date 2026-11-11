@@ -1,6 +1,36 @@
 [
   {
     "date": "2026.11.10",
+    "cat": "market",
+    "title": "微创机器人-B：延迟刊发2026年中期业绩 - 新浪财经",
+    "body": "微创机器人-B：延迟刊发2026年中期业绩 新浪财经",
+    "src": "谷歌·微创机器人",
+    "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNMFFtWW1ydWtBdXFHcHo4VWtHZFpNQVN0N1gxSHE2RUJudXJnN3dGVGhyWTdEQVhuakNySU9NNFFRSlNZMXhIWURZaXRQSDhMNmxXRXVFcEp5aFpjZHo4R1hoeGJ4eF9yTlVtUnYzUTNWQVBlbkRUenAxU19jekFvSEpLN0JwT0VSUTZTSDZMZEEtUWt4U0dLd0I2STE2TENfelNzYklad0RQQk5IZ1VGOFlqb1NiN3ZHTTcwNHJpUW1VN1pWYjM1NlEtMkhiNkdWYkJ0ZW9SMDVONjVEdW0wZktMWTdhcC1sRGszVDlZb3JES1hUODRUNXZBOWxuOGdSWGRQdWpQVEtuTnlrbVRSTGFkTEtzbV9TUHk3UXR2ODcxOFlQYVVSSVlwYmYxemVRYUFoVVlNN2picEZqMl81RFFVZElFZVdFT2NGZElubmVoRDNEZmt0NUlFV3JCSDdlNzVaQ0tuR1c1aVF1ek9xenc0NmdQc19qNTZ3Qi1VZ1prc3NMUFFJcEpXcTJzZWJWd0ZoTEdzeU1FTzJZYzdsTFpmWExTRkdGY2VTemV6V3Q2Y1pkQnIydEJTU2doRHZmWVJIUHZPeTc0dU9KMnFRSUlSVDJHcDZHWTdwWnBaNUZqWU9yM01temZBaTFLdUJOdkpzY1VvaDlaS1RmZUlzMDVQUVFKc3RHalFEOUt1SDVfRm5zV3l3VE51WHdDSy16Vl9aejNKc2VVTjFUcmJBVVdtN0FwLVAtbjBjZEk0TldFUEpfdUpqcEhER2tGWDZFM180aG81RnpXZ3FEV1JyOEREalRWUnZFbGJr?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.11.10",
+    "cat": "market",
+    "title": "进博探馆：黑武士、有“灵魂”的手术机器人，全在这了！ - Sohu",
+    "body": "进博探馆：黑武士、有“灵魂”的手术机器人，全在这了！ Sohu",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblNVSHhRem9LZ0RGOHZ1Y1pmRWpTbk5LY203TXpVdEJlcmh0OFh5WkpyRk9sT3pKLVZMWFBfNEhfTVc0MnpObVY2cXlXa1dxQVBGRU5vdlFhNDhwTFBjR3hMRlVSb3FPaGVFTzJreFZWUHp0V2hVRmkzTUFnc2pvclNvNXctQ3B6?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.11.10",
+    "cat": "tech",
+    "title": "中国首展！最新一代达芬奇手术机器人亮相进博会，“手感”不同以往 - Sohu",
+    "body": "中国首展！最新一代达芬奇手术机器人亮相进博会，“手感”不同以往 Sohu",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1NweXRybjJOel9YcXhRVmNSRlduem5qb19jaDhlYWY3RUR4UFFoUTBlSDNJOTI0Y181eHZRYlBwWEpPS29JME5VZngzNGtlNW03MUJOUHFWLWpyOEpxNmRCWU5PV1lsR0xDN25YRThWbS1qREQ5bFl0MUhIN1ZzVjlEeGVvMDlUNXBFaA?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.11.10",
     "cat": "company",
     "title": "精锋医疗-B（02675.HK）：11月9日南向资金减持1.67万股 - 搜狐网",
     "body": "精锋医疗-B（02675.HK）：11月9日南向资金减持1.67万股 搜狐网",
@@ -116,7 +146,7 @@
     "body": "直观复星举办达芬奇服务中国20周年庆典 共话机器人外科价值与未来 京报网",
     "src": "谷歌·达芬奇手术",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UVnBtbDdZemQyaFkyUlZlYzQ2YTRralJ2bFBLbXJYaDQ3djl5WGlLMHRGeUxNamZ1ZkoxajNJQ2RVT3JQdXhQbUFxZWxtOGJkTTA1cnBjZDEzM2QtZVE?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -126,7 +156,7 @@
     "body": "远道而来，扎根生长：达芬奇入华20年，书写机器人外科中国故事 上观新闻",
     "src": "谷歌·达芬奇手术",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82am5lLWpoU0d4aFQxXzd4V0ZQUnloLUJ4UnZYQW1LYU54NGRPOENwRUR6ejIyeUJRQktNd1d0OTZGZW9qVklXekppeG1xYzdhWE5FQURWYWR4QWNW?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -136,7 +166,7 @@
     "body": "光学超声成像经机器人支气管镜递送用于经支气管肺活检引导的可行性研究 生物通",
     "src": "谷歌·支气管镜机器人",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YYk1yRlRzWkE4V3IyZWVWSHd1WVAwZ21CZ2VfMDlVQVNjaFE5eER0NTRyd1BYdmJTVDNsNTdyQ3pPR2V4dHNuT2tLRjJuaXdtVHNRMWlDRUF1RU0xSE40UGVMRHdldlgxdHg2SVRR?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -1026,16 +1056,6 @@
     "body": "小摩：微创机器人-B海外布局加速 维持“增持”评级 新浪财经",
     "src": "谷歌·微创机器人",
     "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxPR28xZnR4ellic0dIaVU4ZDR1VHJUWXBvb214NXBvNUVqbTNwb2RkRzJlQVJTTS1QWS14bHF4S2ZzWDFFaEhnUGU1WElpbEdnQUFrRWRDREh4dFVMWkp3azVQb1lNUE96SlJSRFg4dnFHbjJ4eDBoRGRRc1NfU2NELWlWRnU2enFIeTlmT1l3bHRQUEZNNlhDNGhlQ2xoMWZTcXg1Y2tXZmwzOGdFZG9aWExnenU3WjFSdHBjSlN5SDlVVzI5WGR2YzVmd1pxcktxdHVqck1EOGlmYnk1UTg4R3U2eVhwYmRmRlN5azYxN0RENGJ1S1RjcURteXZMbnY2N0xLSG8wTlBYWHpoSW5OQTV1WjhPUUEwTjZWYWRxOVZMOXpoaXJubUt5OUItbXQ5aHAxS0xnSUlmRlcyUlJ2WU1NMlNZdEhjYjZDZjRmTTBWalc1b3Y1bndEMXItZjlwWlU0VWZyWU00Q2cwWVlxVDBKdm1jWW1WRzBjaE1tenM3MndZTFBtQmRoakRLdEJKcVFCSTZpTW9oTmhsOVVhMi13U1RYWVdFdEJvdGxWQlZxT0ozNFVqUUVQcHFyNkJLTUt4TE5MdXZRYjJ2ejRBYjBwV2hjVjUwNzBRZ3hzT0lpWVd0UWlJbnFtU0ptMzlTUUVJeUxzZUl4UURfUGpVb3hXM3pzaEVIdFo2azJUd2JHRzk5cE8tM21rMTlBX1UwOWc0WldORnJIR1VzcF9PVHRIM0Q?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.10.20",
-    "cat": "policy",
-    "title": "腔镜手术机器人，集采到了 - 新浪财经",
-    "body": "腔镜手术机器人，集采到了 新浪财经",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VbjFHU0JZaHhPRjB5dHRoZUtTOWYyVG52eUY3NmJoRG5JbFNZZDdXa2tNUDE1Nlhzd0lmR3IwNWZPTVJYU0ZDZ1BYSE1ZTUlWVEh5cmNFc1FTV2UwUzFWV1BCSEtFcDF6ejJpWkZuaTB2cC0xLU5EQg?oc=5",
     "isNew": false,
     "major": false
   }
