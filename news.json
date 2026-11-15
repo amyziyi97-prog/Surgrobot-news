@@ -71,6 +71,16 @@
   },
   {
     "date": "2026.11.12",
+    "cat": "market",
+    "title": "2026进博会20+医疗巨头图鉴：手术机器人、AI影像、创新药一次看全 - AgeClub",
+    "body": "2026进博会20+医疗巨头图鉴：手术机器人、AI影像、创新药一次看全 AgeClub",
+    "src": "谷歌·手术机器人",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2UEpFLUEwQl9aQ21lMl9HZWkwM00xSlY0VXN5VkZkZExGdnZNVHBya1VJNEUyNnU1anNrUE9EcUFDUld6Q2RsQkxxVnJhVkVvQkcxeA?oc=5",
+    "isNew": true,
+    "major": false
+  },
+  {
+    "date": "2026.11.12",
     "cat": "tech",
     "title": "da Vinci SP单孔机器人联合双极双用法的经腋入路机器人双侧全甲状腺切除：与Xi系统的倾向评分匹配对照研究 - 生物通",
     "body": "da Vinci SP单孔机器人联合双极双用法的经腋入路机器人双侧全甲状腺切除：与Xi系统的倾向评分匹配对照研究 生物通",
@@ -120,13 +130,13 @@
     "major": false
   },
   {
-    "date": "2026.11.12",
+    "date": "2026.11.11",
     "cat": "market",
-    "title": "2026进博会20+医疗巨头图鉴：手术机器人、AI影像、创新药一次看全 - AgeClub",
-    "body": "2026进博会20+医疗巨头图鉴：手术机器人、AI影像、创新药一次看全 AgeClub",
+    "title": "让外科医生手更长更有力，进博会手术机器人上新 - 新浪财经_金融信息服务商",
+    "body": "让外科医生手更长更有力，进博会手术机器人上新 新浪财经_金融信息服务商",
     "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJNmxYeG43UXNvbE9ERGVYSTB6UmRzTUpoTTZ1dk5nSjhfcnBWY1BvdWdaSnNOSkd0YlZzRHNNSHI0QUF0UUh3aWkzRDFtdnVMSS1sUWhORQ?oc=5",
-    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HM0ZoY3JvUjVkcFNlejBUS09lMUY2dDIzRDFqSlRWeTBWaFlqaHplLWNGNFBQOHRGbzNZcTZlNDAydUFBcnJ4SjhsZXZmZlJJMmhBMHVkdGMxQVlUajQ2RGhNYldfOXNxTV9GNXZn?oc=5",
+    "isNew": false,
     "major": false
   },
   {
@@ -136,7 +146,7 @@
     "body": "企业家风采 | 医疗器械工程师周博：带队研发湖北首款腔镜手术机器人，让医生真正“看见”病灶 ByDrug",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PVGtzR1laOHdNRXlIRHIyNXozLUhVemtIWWluMHhmQVNPWEpwbDREYXh6NVNXaTdUSkJaSENmT0gzRnR1UVliMDdibjN5WjZCbFN4UG84OUdteXlMRVFUZHk2Nm1lajhKemI2TGdDTFhub1JXS1ZJSDRfODUwUQ?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -146,17 +156,7 @@
     "body": "「腔镜手术机器人」AI平台影响力品牌榜（2026年11月） 财富号",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16N2FOZGFLTkdaMS1TM205YzdscjV0RU9FTTVERE16NG94UVFaOEhHREtLQVBNVHYxWXRfdEpRcUQ2cTFGamNQQkRwV2lKaFFGNWRBMFFIZnJTSTJlLXE5WVdNNXE3ZkZPMUhn?oc=5",
-    "isNew": true,
-    "major": false
-  },
-  {
-    "date": "2026.11.11",
-    "cat": "market",
-    "title": "让外科医生手更长更有力，进博会手术机器人上新 - 第一财经",
-    "body": "让外科医生手更长更有力，进博会手术机器人上新 第一财经",
-    "src": "谷歌·手术机器人",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54dGhxQ05id2RwYWJ1SWh3VjQ3ZjRUYVNKT3Q4RjcwUDdrZXhMSF9SaGJ6eWJQeXVGclFGRWNxTlJaZHRpQVEwaS13ZlI0VmZVTE84?oc=5",
-    "isNew": true,
+    "isNew": false,
     "major": false
   },
   {
@@ -1156,26 +1156,6 @@
     "body": "显微镜手术机器人，完成近亿元B轮融资 新浪财经",
     "src": "谷歌·手术机器人",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aUlkxVFB5SWp3MjZfUHNqanVPWnMtNXVfdGVmZlNWb0pwWWt5czM3UXBhdVFrQlBWX3dhR2pFcmh2enRfS1hwc3l6QTE4eXowQk9JRWdiVXJoaU1BeThLeG9vV2hiMk9WaWtwY05XbmttRmxQSkRoMA?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.10.20",
-    "cat": "policy",
-    "title": "中亚国家远程机器人手术国际培训班在蓉开班！华西医院已完成远程机器人手术85例 - 新浪财经",
-    "body": "中亚国家远程机器人手术国际培训班在蓉开班！华西医院已完成远程机器人手术85例 新浪财经",
-    "src": "谷歌·远程手术",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPU1Z2OWx6WTN2WDQ4YkhXbWMwVUxncVVSV0Z0TUQ1M1JHRU5TaXFJbzNoY081WDR5b0hLSV9vQ2lPRGRGRC1UenBmZXRVRXZGRGd3UXBnT0ZLRnZQQ0VEdlIwdzBEVEZfYWhYZldtR1hzcC1Ub3FaSjEzSGdZUGlEbDNyVko1NXNnc0s1NG9QWUM2eTlrMF9MQUNSVFhMZFJKV0lBQkxLRERfN0tWRlczWVV5ZndKVS1wX3pXa2dWZklFOGpQOTZfODZqQkNsR2l6dnBmOFBSMThPWjlwb0p1dzlsMElIcUlWN1BtQUxjYklrc2xCcXBzSm0tU29tQUQ3c092T1lxb0w0TXk1RXNmQWRwNlUxYmM?oc=5",
-    "isNew": false,
-    "major": false
-  },
-  {
-    "date": "2026.10.20",
-    "cat": "global",
-    "title": "远程手术能有多远？上海微创医疗机器人何超：最远实现四川华西医院到巴西，通讯距离近3万公里 - 新浪财经",
-    "body": "远程手术能有多远？上海微创医疗机器人何超：最远实现四川华西医院到巴西，通讯距离近3万公里 新浪财经",
-    "src": "谷歌·微创机器人",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxeFIzRVVNRFBHVXA4ZTJ6cC1JcUw1Ulg5akRYU1p3Ylp5SWJJZWV4eUFycldLdW5yTnQyQjV5eFdscHZCb0NZaHN3TkJ6THNDWjhIS2ltN3lTSmZKTFZQVTBNLXpEdm81R05iXzV5djE0QjY5c2ZXMzYwN0U?oc=5",
     "isNew": false,
     "major": false
   }
